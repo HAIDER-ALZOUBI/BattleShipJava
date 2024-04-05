@@ -1,0 +1,8 @@
+Client.class
+GuiClient.class
+Client$OnUsersListReceivedListener.class
+LoginScene.class
+Message.class
+GuiClient$1.class
+ChatListScene.class
+UserListScene.class
